@@ -41,7 +41,7 @@ exclude = ["django_typer/tests", "django_typer/examples", "django_typer/locale"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4.0"
-Django = ">=3.2,<6.0"
+Django = ">=3.1,<6.0"
 click = "^8.1.0"
 
 # typer's release history is full of breaking changes for minor versions
